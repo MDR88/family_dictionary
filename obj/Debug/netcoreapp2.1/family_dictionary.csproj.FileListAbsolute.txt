@@ -1,0 +1,11 @@
+/Users/MDR/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.deps.json
+/Users/MDR/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.runtimeconfig.json
+/Users/MDR/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.runtimeconfig.dev.json
+/Users/MDR/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.dll
+/Users/MDR/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.pdb
+/Users/MDR/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.csprojAssemblyReference.cache
+/Users/MDR/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.csproj.CoreCompileInputs.cache
+/Users/MDR/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.AssemblyInfoInputs.cache
+/Users/MDR/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.AssemblyInfo.cs
+/Users/MDR/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.dll
+/Users/MDR/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.pdb
